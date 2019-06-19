@@ -1,2 +1,4 @@
 # bert_predict
-simplify the restore and predict bert process for a finetuned bert model
+simplify the prediction process for a finetuned bert model
+
+text_similarity_predict.py shows the demo
